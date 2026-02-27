@@ -18,8 +18,8 @@
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Clone repository (ganti dengan URL repo Anda)
-!git clone https://github.com/YOUR_USERNAME/captcha-destroyer.git /content/captcha-destroyer
+# Clone repository
+!git clone https://github.com/Mrarrazzaq/Captcha-Destroyer.git /content/captcha-destroyer
 %cd /content/captcha-destroyer
 
 # Install dependencies
@@ -118,7 +118,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Clone ke Google Drive (persistent storage)
-!git clone https://github.com/YOUR_USERNAME/captcha-destroyer.git \
+!git clone https://github.com/Mrarrazzaq/Captcha-Destroyer.git \
     /content/drive/MyDrive/captcha-destroyer
     
 %cd /content/drive/MyDrive/captcha-destroyer
@@ -202,17 +202,12 @@ Colab GPU FREE tier biasanya cukup untuk project ini!
 
 ## Next Steps
 
-1. **Push code ke GitHub** (jika belum):
-   ```bash
-   cd D:\Work\Private\Self\PVT\Captcha Destroyer
-   git init
-   git remote add origin https://github.com/YOUR_USERNAME/captcha-destroyer.git
-   git add .
-   git commit -m "Initial commit"
-   git push -u origin main
+1. **✅ Code sudah di GitHub:**
+   ```
+   https://github.com/Mrarrazzaq/Captcha-Destroyer.git
    ```
 
-2. **Buka Colab dan ikuti langkah di atas**
+2. **Buka Colab dan ikuti langkah di atas** 👈 Tinggal copy-paste!
 
 3. **Download model hasil training** dari Google Drive
 
